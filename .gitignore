@@ -1,0 +1,9 @@
+.venv/
+csv/
+*.duckdb
+*.duckdb.wal
+submission.zip
+DBMS-LAB-END-SEM.pdf
+EXPLAINER_for_viva.md
+__pycache__/
+.DS_Store
